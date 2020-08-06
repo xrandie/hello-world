@@ -2,4 +2,4 @@
 test repo
 
 Hi
-Xrandie here,i like NodeJS and coffee
+Xrandie here, I like NodeJS and coffee.
